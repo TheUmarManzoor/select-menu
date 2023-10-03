@@ -16,9 +16,9 @@ A simple web application that demonstrates how to create a custom select menu us
 
 ## Demo
 
-You can view a live demo of this project [here](#).
+You can view a live demo of this project [here](https://theumarmanzoor.github.io/select-menu/index.html).
 
-![Custom Select Menu Demo](screenshot.png)
+
 
 ## Description
 
